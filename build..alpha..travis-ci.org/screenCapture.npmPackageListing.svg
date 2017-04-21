@@ -1,234 +1,234 @@
 <svg height="3694" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="3694" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 09:19:36 +0000  2644920 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 09:19:36 +0000    10376 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 09:19:36 +0000     3133 bytes  Gruntfile.js</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 09:19:36 +0000     1078 bytes  LICENSE</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 09:19:36 +0000     2227 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 09:19:36 +0000     1072 bytes  TODO.md</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 09:19:36 +0000      473 bytes  _config.yml</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 09:19:36 +0000      612 bytes  bower.json</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 09:19:36 +0000    12155 bytes  dist/validator.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 09:19:36 +0000     7729 bytes  dist/validator.min.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-21 09:19:36 +0000    19465 bytes  docs/LICENSE</tspan>
-<tspan x="10" y="202"> 11.  2017-04-21 09:19:36 +0000      152 bytes  docs/_includes/ads.html</tspan>
-<tspan x="10" y="218"> 12.  2017-04-21 09:19:36 +0000      432 bytes  docs/_includes/footer.html</tspan>
-<tspan x="10" y="234"> 13.  2017-04-21 09:19:36 +0000     1421 bytes  docs/_includes/header.html</tspan>
-<tspan x="10" y="250"> 14.  2017-04-21 09:19:36 +0000      760 bytes  docs/_includes/nav-main.html</tspan>
-<tspan x="10" y="266"> 15.  2017-04-21 09:19:36 +0000      526 bytes  docs/_includes/nav-validator.html</tspan>
-<tspan x="10" y="282"> 16.  2017-04-21 09:19:36 +0000      690 bytes  docs/_includes/social-buttons.html</tspan>
-<tspan x="10" y="298"> 17.  2017-04-21 09:19:36 +0000     1833 bytes  docs/_layouts/default.html</tspan>
-<tspan x="10" y="314"> 18.  2017-04-21 09:19:36 +0000    61171 bytes  docs/assets/css/docs.css</tspan>
-<tspan x="10" y="330"> 19.  2017-04-21 09:19:36 +0000     3005 bytes  docs/assets/css/pygments-manni.css</tspan>
-<tspan x="10" y="346"> 20.  2017-04-21 09:19:36 +0000     3549 bytes  docs/assets/ico/apple-touch-icon-144-precomposed\</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 09:20:36 +0000  2644920 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 09:20:36 +0000    10376 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 09:20:36 +0000     3133 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 09:20:36 +0000     1078 bytes  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 09:20:36 +0000     2227 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 09:20:36 +0000     1072 bytes  TODO.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 09:20:36 +0000      473 bytes  _config.yml</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 09:20:36 +0000      612 bytes  bower.json</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 09:20:36 +0000    12155 bytes  dist/validator.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 09:20:36 +0000     7729 bytes  dist/validator.min.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 09:20:36 +0000    19465 bytes  docs/LICENSE</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 09:20:36 +0000      152 bytes  docs/_includes/ads.html</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 09:20:36 +0000      432 bytes  docs/_includes/footer.html</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 09:20:36 +0000     1421 bytes  docs/_includes/header.html</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 09:20:36 +0000      760 bytes  docs/_includes/nav-main.html</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 09:20:36 +0000      526 bytes  docs/_includes/nav-validator.html</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 09:20:36 +0000      690 bytes  docs/_includes/social-buttons.html</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 09:20:36 +0000     1833 bytes  docs/_layouts/default.html</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 09:20:36 +0000    61171 bytes  docs/assets/css/docs.css</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 09:20:36 +0000     3005 bytes  docs/assets/css/pygments-manni.css</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 09:20:36 +0000     3549 bytes  docs/assets/ico/apple-touch-icon-144-precomposed\</tspan>
 <tspan x="10" y="362">.png</tspan>
-<tspan x="10" y="378"> 21.  2017-04-21 09:19:36 +0000      887 bytes  docs/assets/ico/favicon.png</tspan>
-<tspan x="10" y="394"> 22.  2017-04-21 09:19:36 +0000     1390 bytes  docs/assets/js/application.js</tspan>
-<tspan x="10" y="410"> 23.  2017-04-21 09:19:36 +0000    12155 bytes  docs/dist/validator.js</tspan>
-<tspan x="10" y="426"> 24.  2017-04-21 09:19:36 +0000     7729 bytes  docs/dist/validator.min.js</tspan>
-<tspan x="10" y="442"> 25.  2017-04-21 09:19:36 +0000    16999 bytes  docs/index.html</tspan>
-<tspan x="10" y="458"> 26.  2017-04-21 09:19:36 +0000      751 bytes  js/tests/index-jquery-1.10.2.html</tspan>
-<tspan x="10" y="474"> 27.  2017-04-21 09:19:36 +0000      750 bytes  js/tests/index-jquery-3.1.1.html</tspan>
-<tspan x="10" y="490"> 28.  2017-04-21 09:19:36 +0000     2053 bytes  js/tests/unit/phantom.js</tspan>
-<tspan x="10" y="506"> 29.  2017-04-21 09:19:36 +0000    27835 bytes  js/tests/unit/validator.js</tspan>
-<tspan x="10" y="522"> 30.  2017-04-21 09:19:36 +0000    93106 bytes  js/tests/vendor/jquery-1.10.2.js</tspan>
-<tspan x="10" y="538"> 31.  2017-04-21 09:19:36 +0000    86716 bytes  js/tests/vendor/jquery-3.1.1.js</tspan>
-<tspan x="10" y="554"> 32.  2017-04-21 09:19:36 +0000    22632 bytes  js/tests/vendor/jquery.mockjax.js</tspan>
-<tspan x="10" y="570"> 33.  2017-04-21 09:19:36 +0000     4990 bytes  js/tests/vendor/qunit.css</tspan>
-<tspan x="10" y="586"> 34.  2017-04-21 09:19:36 +0000    71720 bytes  js/tests/vendor/qunit.js</tspan>
-<tspan x="10" y="602"> 35.  2017-04-21 09:19:36 +0000    13433 bytes  js/validator.js</tspan>
-<tspan x="10" y="618"> 36.  2017-04-21 09:19:36 +0000     1008 bytes  package.json</tspan>
-<tspan x="10" y="634"> 37.  2017-04-21 09:19:36 +0000    11328 bytes  sandbox/bootstrap/Gruntfile.js</tspan>
-<tspan x="10" y="650"> 38.  2017-04-21 09:19:36 +0000     1084 bytes  sandbox/bootstrap/LICENSE</tspan>
-<tspan x="10" y="666"> 39.  2017-04-21 09:19:36 +0000     8544 bytes  sandbox/bootstrap/README.md</tspan>
-<tspan x="10" y="682"> 40.  2017-04-21 09:19:36 +0000      524 bytes  sandbox/bootstrap/bower.json</tspan>
-<tspan x="10" y="698"> 41.  2017-04-21 09:19:36 +0000    14936 bytes  sandbox/bootstrap/dist/css/bootstrap-theme.css</tspan>
-<tspan x="10" y="714"> 42.  2017-04-21 09:19:36 +0000    38388 bytes  sandbox/bootstrap/dist/css/bootstrap-theme.css.m\</tspan>
+<tspan x="10" y="378"> 21.  2017-04-21 09:20:36 +0000      887 bytes  docs/assets/ico/favicon.png</tspan>
+<tspan x="10" y="394"> 22.  2017-04-21 09:20:36 +0000     1390 bytes  docs/assets/js/application.js</tspan>
+<tspan x="10" y="410"> 23.  2017-04-21 09:20:36 +0000    12155 bytes  docs/dist/validator.js</tspan>
+<tspan x="10" y="426"> 24.  2017-04-21 09:20:36 +0000     7729 bytes  docs/dist/validator.min.js</tspan>
+<tspan x="10" y="442"> 25.  2017-04-21 09:20:36 +0000    16999 bytes  docs/index.html</tspan>
+<tspan x="10" y="458"> 26.  2017-04-21 09:20:36 +0000      751 bytes  js/tests/index-jquery-1.10.2.html</tspan>
+<tspan x="10" y="474"> 27.  2017-04-21 09:20:36 +0000      750 bytes  js/tests/index-jquery-3.1.1.html</tspan>
+<tspan x="10" y="490"> 28.  2017-04-21 09:20:36 +0000     2053 bytes  js/tests/unit/phantom.js</tspan>
+<tspan x="10" y="506"> 29.  2017-04-21 09:20:36 +0000    27835 bytes  js/tests/unit/validator.js</tspan>
+<tspan x="10" y="522"> 30.  2017-04-21 09:20:36 +0000    93106 bytes  js/tests/vendor/jquery-1.10.2.js</tspan>
+<tspan x="10" y="538"> 31.  2017-04-21 09:20:36 +0000    86716 bytes  js/tests/vendor/jquery-3.1.1.js</tspan>
+<tspan x="10" y="554"> 32.  2017-04-21 09:20:36 +0000    22632 bytes  js/tests/vendor/jquery.mockjax.js</tspan>
+<tspan x="10" y="570"> 33.  2017-04-21 09:20:36 +0000     4990 bytes  js/tests/vendor/qunit.css</tspan>
+<tspan x="10" y="586"> 34.  2017-04-21 09:20:36 +0000    71720 bytes  js/tests/vendor/qunit.js</tspan>
+<tspan x="10" y="602"> 35.  2017-04-21 09:20:36 +0000    13433 bytes  js/validator.js</tspan>
+<tspan x="10" y="618"> 36.  2017-04-21 09:20:36 +0000     1008 bytes  package.json</tspan>
+<tspan x="10" y="634"> 37.  2017-04-21 09:20:36 +0000    11328 bytes  sandbox/bootstrap/Gruntfile.js</tspan>
+<tspan x="10" y="650"> 38.  2017-04-21 09:20:36 +0000     1084 bytes  sandbox/bootstrap/LICENSE</tspan>
+<tspan x="10" y="666"> 39.  2017-04-21 09:20:36 +0000     8544 bytes  sandbox/bootstrap/README.md</tspan>
+<tspan x="10" y="682"> 40.  2017-04-21 09:20:36 +0000      524 bytes  sandbox/bootstrap/bower.json</tspan>
+<tspan x="10" y="698"> 41.  2017-04-21 09:20:36 +0000    14936 bytes  sandbox/bootstrap/dist/css/bootstrap-theme.css</tspan>
+<tspan x="10" y="714"> 42.  2017-04-21 09:20:36 +0000    38388 bytes  sandbox/bootstrap/dist/css/bootstrap-theme.css.m\</tspan>
 <tspan x="10" y="730">ap</tspan>
-<tspan x="10" y="746"> 43.  2017-04-21 09:19:36 +0000    13185 bytes  sandbox/bootstrap/dist/css/bootstrap-theme.min.c\</tspan>
+<tspan x="10" y="746"> 43.  2017-04-21 09:20:36 +0000    13185 bytes  sandbox/bootstrap/dist/css/bootstrap-theme.min.c\</tspan>
 <tspan x="10" y="762">ss</tspan>
-<tspan x="10" y="778"> 44.  2017-04-21 09:19:36 +0000   121220 bytes  sandbox/bootstrap/dist/css/bootstrap.css</tspan>
-<tspan x="10" y="794"> 45.  2017-04-21 09:19:36 +0000   245960 bytes  sandbox/bootstrap/dist/css/bootstrap.css.map</tspan>
-<tspan x="10" y="810"> 46.  2017-04-21 09:19:36 +0000    99961 bytes  sandbox/bootstrap/dist/css/bootstrap.min.css</tspan>
-<tspan x="10" y="826"> 47.  2017-04-21 09:19:36 +0000    20335 bytes  sandbox/bootstrap/dist/fonts/glyphicons-halfling\</tspan>
+<tspan x="10" y="778"> 44.  2017-04-21 09:20:36 +0000   121220 bytes  sandbox/bootstrap/dist/css/bootstrap.css</tspan>
+<tspan x="10" y="794"> 45.  2017-04-21 09:20:36 +0000   245960 bytes  sandbox/bootstrap/dist/css/bootstrap.css.map</tspan>
+<tspan x="10" y="810"> 46.  2017-04-21 09:20:36 +0000    99961 bytes  sandbox/bootstrap/dist/css/bootstrap.min.css</tspan>
+<tspan x="10" y="826"> 47.  2017-04-21 09:20:36 +0000    20335 bytes  sandbox/bootstrap/dist/fonts/glyphicons-halfling\</tspan>
 <tspan x="10" y="842">s-regular.eot</tspan>
-<tspan x="10" y="858"> 48.  2017-04-21 09:19:36 +0000    62927 bytes  sandbox/bootstrap/dist/fonts/glyphicons-halfling\</tspan>
+<tspan x="10" y="858"> 48.  2017-04-21 09:20:36 +0000    62927 bytes  sandbox/bootstrap/dist/fonts/glyphicons-halfling\</tspan>
 <tspan x="10" y="874">s-regular.svg</tspan>
-<tspan x="10" y="890"> 49.  2017-04-21 09:19:36 +0000    41280 bytes  sandbox/bootstrap/dist/fonts/glyphicons-halfling\</tspan>
+<tspan x="10" y="890"> 49.  2017-04-21 09:20:36 +0000    41280 bytes  sandbox/bootstrap/dist/fonts/glyphicons-halfling\</tspan>
 <tspan x="10" y="906">s-regular.ttf</tspan>
-<tspan x="10" y="922"> 50.  2017-04-21 09:19:36 +0000    23320 bytes  sandbox/bootstrap/dist/fonts/glyphicons-halfling\</tspan>
+<tspan x="10" y="922"> 50.  2017-04-21 09:20:36 +0000    23320 bytes  sandbox/bootstrap/dist/fonts/glyphicons-halfling\</tspan>
 <tspan x="10" y="938">s-regular.woff</tspan>
-<tspan x="10" y="954"> 51.  2017-04-21 09:19:36 +0000    55258 bytes  sandbox/bootstrap/dist/js/bootstrap.js</tspan>
-<tspan x="10" y="970"> 52.  2017-04-21 09:19:36 +0000    29110 bytes  sandbox/bootstrap/dist/js/bootstrap.min.js</tspan>
-<tspan x="10" y="986"> 53.  2017-04-21 09:19:36 +0000    20335 bytes  sandbox/bootstrap/fonts/glyphicons-halflings-reg\</tspan>
+<tspan x="10" y="954"> 51.  2017-04-21 09:20:36 +0000    55258 bytes  sandbox/bootstrap/dist/js/bootstrap.js</tspan>
+<tspan x="10" y="970"> 52.  2017-04-21 09:20:36 +0000    29110 bytes  sandbox/bootstrap/dist/js/bootstrap.min.js</tspan>
+<tspan x="10" y="986"> 53.  2017-04-21 09:20:36 +0000    20335 bytes  sandbox/bootstrap/fonts/glyphicons-halflings-reg\</tspan>
 <tspan x="10" y="1002">ular.eot</tspan>
-<tspan x="10" y="1018"> 54.  2017-04-21 09:19:36 +0000    62927 bytes  sandbox/bootstrap/fonts/glyphicons-halflings-reg\</tspan>
+<tspan x="10" y="1018"> 54.  2017-04-21 09:20:36 +0000    62927 bytes  sandbox/bootstrap/fonts/glyphicons-halflings-reg\</tspan>
 <tspan x="10" y="1034">ular.svg</tspan>
-<tspan x="10" y="1050"> 55.  2017-04-21 09:19:36 +0000    41280 bytes  sandbox/bootstrap/fonts/glyphicons-halflings-reg\</tspan>
+<tspan x="10" y="1050"> 55.  2017-04-21 09:20:36 +0000    41280 bytes  sandbox/bootstrap/fonts/glyphicons-halflings-reg\</tspan>
 <tspan x="10" y="1066">ular.ttf</tspan>
-<tspan x="10" y="1082"> 56.  2017-04-21 09:19:36 +0000    23320 bytes  sandbox/bootstrap/fonts/glyphicons-halflings-reg\</tspan>
+<tspan x="10" y="1082"> 56.  2017-04-21 09:20:36 +0000    23320 bytes  sandbox/bootstrap/fonts/glyphicons-halflings-reg\</tspan>
 <tspan x="10" y="1098">ular.woff</tspan>
-<tspan x="10" y="1114"> 57.  2017-04-21 09:19:36 +0000     1226 bytes  sandbox/bootstrap/grunt/bs-glyphicons-data-gener\</tspan>
+<tspan x="10" y="1114"> 57.  2017-04-21 09:20:36 +0000     1226 bytes  sandbox/bootstrap/grunt/bs-glyphicons-data-gener\</tspan>
 <tspan x="10" y="1130">ator.js</tspan>
-<tspan x="10" y="1146"> 58.  2017-04-21 09:19:36 +0000     6066 bytes  sandbox/bootstrap/grunt/bs-lessdoc-parser.js</tspan>
-<tspan x="10" y="1162"> 59.  2017-04-21 09:19:36 +0000      990 bytes  sandbox/bootstrap/grunt/bs-raw-files-generator.j\</tspan>
+<tspan x="10" y="1146"> 58.  2017-04-21 09:20:36 +0000     6066 bytes  sandbox/bootstrap/grunt/bs-lessdoc-parser.js</tspan>
+<tspan x="10" y="1162"> 59.  2017-04-21 09:20:36 +0000      990 bytes  sandbox/bootstrap/grunt/bs-raw-files-generator.j\</tspan>
 <tspan x="10" y="1178">s</tspan>
-<tspan x="10" y="1194"> 60.  2017-04-21 09:19:36 +0000     1149 bytes  sandbox/bootstrap/grunt/shrinkwrap.js</tspan>
-<tspan x="10" y="1210"> 61.  2017-04-21 09:19:36 +0000     4039 bytes  sandbox/bootstrap/js/affix.js</tspan>
-<tspan x="10" y="1226"> 62.  2017-04-21 09:19:36 +0000     2113 bytes  sandbox/bootstrap/js/alert.js</tspan>
-<tspan x="10" y="1242"> 63.  2017-04-21 09:19:36 +0000     2883 bytes  sandbox/bootstrap/js/button.js</tspan>
-<tspan x="10" y="1258"> 64.  2017-04-21 09:19:36 +0000     6018 bytes  sandbox/bootstrap/js/carousel.js</tspan>
-<tspan x="10" y="1274"> 65.  2017-04-21 09:19:36 +0000     4840 bytes  sandbox/bootstrap/js/collapse.js</tspan>
-<tspan x="10" y="1290"> 66.  2017-04-21 09:19:36 +0000     4246 bytes  sandbox/bootstrap/js/dropdown.js</tspan>
-<tspan x="10" y="1306"> 67.  2017-04-21 09:19:36 +0000     6687 bytes  sandbox/bootstrap/js/modal.js</tspan>
-<tspan x="10" y="1322"> 68.  2017-04-21 09:19:36 +0000     3178 bytes  sandbox/bootstrap/js/popover.js</tspan>
-<tspan x="10" y="1338"> 69.  2017-04-21 09:19:36 +0000     4352 bytes  sandbox/bootstrap/js/scrollspy.js</tspan>
-<tspan x="10" y="1354"> 70.  2017-04-21 09:19:36 +0000     2945 bytes  sandbox/bootstrap/js/tab.js</tspan>
-<tspan x="10" y="1370"> 71.  2017-04-21 09:19:36 +0000    12133 bytes  sandbox/bootstrap/js/tooltip.js</tspan>
-<tspan x="10" y="1386"> 72.  2017-04-21 09:19:36 +0000     1544 bytes  sandbox/bootstrap/js/transition.js</tspan>
-<tspan x="10" y="1402"> 73.  2017-04-21 09:19:36 +0000     1430 bytes  sandbox/bootstrap/less/alerts.less</tspan>
-<tspan x="10" y="1418"> 74.  2017-04-21 09:19:36 +0000     1057 bytes  sandbox/bootstrap/less/badges.less</tspan>
-<tspan x="10" y="1434"> 75.  2017-04-21 09:19:36 +0000     1071 bytes  sandbox/bootstrap/less/bootstrap.less</tspan>
-<tspan x="10" y="1450"> 76.  2017-04-21 09:19:36 +0000      594 bytes  sandbox/bootstrap/less/breadcrumbs.less</tspan>
-<tspan x="10" y="1466"> 77.  2017-04-21 09:19:36 +0000     5014 bytes  sandbox/bootstrap/less/button-groups.less</tspan>
-<tspan x="10" y="1482"> 78.  2017-04-21 09:19:36 +0000     3539 bytes  sandbox/bootstrap/less/buttons.less</tspan>
-<tspan x="10" y="1498"> 79.  2017-04-21 09:19:36 +0000     4598 bytes  sandbox/bootstrap/less/carousel.less</tspan>
-<tspan x="10" y="1514"> 80.  2017-04-21 09:19:36 +0000      683 bytes  sandbox/bootstrap/less/close.less</tspan>
-<tspan x="10" y="1530"> 81.  2017-04-21 09:19:36 +0000     1329 bytes  sandbox/bootstrap/less/code.less</tspan>
-<tspan x="10" y="1546"> 82.  2017-04-21 09:19:36 +0000      509 bytes  sandbox/bootstrap/less/component-animations.less</tspan>
-<tspan x="10" y="1562"> 83.  2017-04-21 09:19:36 +0000     4645 bytes  sandbox/bootstrap/less/dropdowns.less</tspan>
-<tspan x="10" y="1578"> 84.  2017-04-21 09:19:36 +0000    11022 bytes  sandbox/bootstrap/less/forms.less</tspan>
-<tspan x="10" y="1594"> 85.  2017-04-21 09:19:36 +0000    14877 bytes  sandbox/bootstrap/less/glyphicons.less</tspan>
-<tspan x="10" y="1610"> 86.  2017-04-21 09:19:36 +0000     1387 bytes  sandbox/bootstrap/less/grid.less</tspan>
-<tspan x="10" y="1626"> 87.  2017-04-21 09:19:36 +0000     4211 bytes  sandbox/bootstrap/less/input-groups.less</tspan>
-<tspan x="10" y="1642"> 88.  2017-04-21 09:19:36 +0000      901 bytes  sandbox/bootstrap/less/jumbotron.less</tspan>
-<tspan x="10" y="1658"> 89.  2017-04-21 09:19:36 +0000     1084 bytes  sandbox/bootstrap/less/labels.less</tspan>
-<tspan x="10" y="1674"> 90.  2017-04-21 09:19:36 +0000     2619 bytes  sandbox/bootstrap/less/list-group.less</tspan>
-<tspan x="10" y="1690"> 91.  2017-04-21 09:19:36 +0000      848 bytes  sandbox/bootstrap/less/media.less</tspan>
-<tspan x="10" y="1706"> 92.  2017-04-21 09:19:36 +0000    26570 bytes  sandbox/bootstrap/less/mixins.less</tspan>
-<tspan x="10" y="1722"> 93.  2017-04-21 09:19:36 +0000     3404 bytes  sandbox/bootstrap/less/modals.less</tspan>
-<tspan x="10" y="1738"> 94.  2017-04-21 09:19:36 +0000    13936 bytes  sandbox/bootstrap/less/navbar.less</tspan>
-<tspan x="10" y="1754"> 95.  2017-04-21 09:19:36 +0000     4926 bytes  sandbox/bootstrap/less/navs.less</tspan>
-<tspan x="10" y="1770"> 96.  2017-04-21 09:19:36 +0000     7434 bytes  sandbox/bootstrap/less/normalize.less</tspan>
-<tspan x="10" y="1786"> 97.  2017-04-21 09:19:36 +0000      857 bytes  sandbox/bootstrap/less/pager.less</tspan>
-<tspan x="10" y="1802"> 98.  2017-04-21 09:19:36 +0000     1996 bytes  sandbox/bootstrap/less/pagination.less</tspan>
-<tspan x="10" y="1818"> 99.  2017-04-21 09:19:36 +0000     5548 bytes  sandbox/bootstrap/less/panels.less</tspan>
-<tspan x="10" y="1834">100.  2017-04-21 09:19:36 +0000     3360 bytes  sandbox/bootstrap/less/popovers.less</tspan>
-<tspan x="10" y="1850">101.  2017-04-21 09:19:36 +0000     1613 bytes  sandbox/bootstrap/less/print.less</tspan>
-<tspan x="10" y="1866">102.  2017-04-21 09:19:36 +0000     1589 bytes  sandbox/bootstrap/less/progress-bars.less</tspan>
-<tspan x="10" y="1882">103.  2017-04-21 09:19:36 +0000     2005 bytes  sandbox/bootstrap/less/responsive-utilities.less</tspan>
-<tspan x="10" y="1898">104.  2017-04-21 09:19:36 +0000     2268 bytes  sandbox/bootstrap/less/scaffolding.less</tspan>
-<tspan x="10" y="1914">105.  2017-04-21 09:19:36 +0000     4470 bytes  sandbox/bootstrap/less/tables.less</tspan>
-<tspan x="10" y="1930">106.  2017-04-21 09:19:36 +0000     6854 bytes  sandbox/bootstrap/less/theme.less</tspan>
-<tspan x="10" y="1946">107.  2017-04-21 09:19:36 +0000      750 bytes  sandbox/bootstrap/less/thumbnails.less</tspan>
-<tspan x="10" y="1962">108.  2017-04-21 09:19:36 +0000     2590 bytes  sandbox/bootstrap/less/tooltip.less</tspan>
-<tspan x="10" y="1978">109.  2017-04-21 09:19:36 +0000     5734 bytes  sandbox/bootstrap/less/type.less</tspan>
-<tspan x="10" y="1994">110.  2017-04-21 09:19:36 +0000      780 bytes  sandbox/bootstrap/less/utilities.less</tspan>
-<tspan x="10" y="2010">111.  2017-04-21 09:19:36 +0000    25388 bytes  sandbox/bootstrap/less/variables.less</tspan>
-<tspan x="10" y="2026">112.  2017-04-21 09:19:36 +0000      527 bytes  sandbox/bootstrap/less/wells.less</tspan>
-<tspan x="10" y="2042">113.  2017-04-21 09:19:36 +0000     1807 bytes  sandbox/bootstrap/package.json</tspan>
-<tspan x="10" y="2058">114.  2017-04-21 09:19:36 +0000     5456 bytes  sandbox/bootstrap/test-infra/README.md</tspan>
-<tspan x="10" y="2074">115.  2017-04-21 09:19:36 +0000    26776 bytes  sandbox/bootstrap/test-infra/npm-shrinkwrap.cano\</tspan>
+<tspan x="10" y="1194"> 60.  2017-04-21 09:20:36 +0000     1149 bytes  sandbox/bootstrap/grunt/shrinkwrap.js</tspan>
+<tspan x="10" y="1210"> 61.  2017-04-21 09:20:36 +0000     4039 bytes  sandbox/bootstrap/js/affix.js</tspan>
+<tspan x="10" y="1226"> 62.  2017-04-21 09:20:36 +0000     2113 bytes  sandbox/bootstrap/js/alert.js</tspan>
+<tspan x="10" y="1242"> 63.  2017-04-21 09:20:36 +0000     2883 bytes  sandbox/bootstrap/js/button.js</tspan>
+<tspan x="10" y="1258"> 64.  2017-04-21 09:20:36 +0000     6018 bytes  sandbox/bootstrap/js/carousel.js</tspan>
+<tspan x="10" y="1274"> 65.  2017-04-21 09:20:36 +0000     4840 bytes  sandbox/bootstrap/js/collapse.js</tspan>
+<tspan x="10" y="1290"> 66.  2017-04-21 09:20:36 +0000     4246 bytes  sandbox/bootstrap/js/dropdown.js</tspan>
+<tspan x="10" y="1306"> 67.  2017-04-21 09:20:36 +0000     6687 bytes  sandbox/bootstrap/js/modal.js</tspan>
+<tspan x="10" y="1322"> 68.  2017-04-21 09:20:36 +0000     3178 bytes  sandbox/bootstrap/js/popover.js</tspan>
+<tspan x="10" y="1338"> 69.  2017-04-21 09:20:36 +0000     4352 bytes  sandbox/bootstrap/js/scrollspy.js</tspan>
+<tspan x="10" y="1354"> 70.  2017-04-21 09:20:36 +0000     2945 bytes  sandbox/bootstrap/js/tab.js</tspan>
+<tspan x="10" y="1370"> 71.  2017-04-21 09:20:36 +0000    12133 bytes  sandbox/bootstrap/js/tooltip.js</tspan>
+<tspan x="10" y="1386"> 72.  2017-04-21 09:20:36 +0000     1544 bytes  sandbox/bootstrap/js/transition.js</tspan>
+<tspan x="10" y="1402"> 73.  2017-04-21 09:20:36 +0000     1430 bytes  sandbox/bootstrap/less/alerts.less</tspan>
+<tspan x="10" y="1418"> 74.  2017-04-21 09:20:36 +0000     1057 bytes  sandbox/bootstrap/less/badges.less</tspan>
+<tspan x="10" y="1434"> 75.  2017-04-21 09:20:36 +0000     1071 bytes  sandbox/bootstrap/less/bootstrap.less</tspan>
+<tspan x="10" y="1450"> 76.  2017-04-21 09:20:36 +0000      594 bytes  sandbox/bootstrap/less/breadcrumbs.less</tspan>
+<tspan x="10" y="1466"> 77.  2017-04-21 09:20:36 +0000     5014 bytes  sandbox/bootstrap/less/button-groups.less</tspan>
+<tspan x="10" y="1482"> 78.  2017-04-21 09:20:36 +0000     3539 bytes  sandbox/bootstrap/less/buttons.less</tspan>
+<tspan x="10" y="1498"> 79.  2017-04-21 09:20:36 +0000     4598 bytes  sandbox/bootstrap/less/carousel.less</tspan>
+<tspan x="10" y="1514"> 80.  2017-04-21 09:20:36 +0000      683 bytes  sandbox/bootstrap/less/close.less</tspan>
+<tspan x="10" y="1530"> 81.  2017-04-21 09:20:36 +0000     1329 bytes  sandbox/bootstrap/less/code.less</tspan>
+<tspan x="10" y="1546"> 82.  2017-04-21 09:20:36 +0000      509 bytes  sandbox/bootstrap/less/component-animations.less</tspan>
+<tspan x="10" y="1562"> 83.  2017-04-21 09:20:36 +0000     4645 bytes  sandbox/bootstrap/less/dropdowns.less</tspan>
+<tspan x="10" y="1578"> 84.  2017-04-21 09:20:36 +0000    11022 bytes  sandbox/bootstrap/less/forms.less</tspan>
+<tspan x="10" y="1594"> 85.  2017-04-21 09:20:36 +0000    14877 bytes  sandbox/bootstrap/less/glyphicons.less</tspan>
+<tspan x="10" y="1610"> 86.  2017-04-21 09:20:36 +0000     1387 bytes  sandbox/bootstrap/less/grid.less</tspan>
+<tspan x="10" y="1626"> 87.  2017-04-21 09:20:36 +0000     4211 bytes  sandbox/bootstrap/less/input-groups.less</tspan>
+<tspan x="10" y="1642"> 88.  2017-04-21 09:20:36 +0000      901 bytes  sandbox/bootstrap/less/jumbotron.less</tspan>
+<tspan x="10" y="1658"> 89.  2017-04-21 09:20:36 +0000     1084 bytes  sandbox/bootstrap/less/labels.less</tspan>
+<tspan x="10" y="1674"> 90.  2017-04-21 09:20:36 +0000     2619 bytes  sandbox/bootstrap/less/list-group.less</tspan>
+<tspan x="10" y="1690"> 91.  2017-04-21 09:20:36 +0000      848 bytes  sandbox/bootstrap/less/media.less</tspan>
+<tspan x="10" y="1706"> 92.  2017-04-21 09:20:36 +0000    26570 bytes  sandbox/bootstrap/less/mixins.less</tspan>
+<tspan x="10" y="1722"> 93.  2017-04-21 09:20:36 +0000     3404 bytes  sandbox/bootstrap/less/modals.less</tspan>
+<tspan x="10" y="1738"> 94.  2017-04-21 09:20:36 +0000    13936 bytes  sandbox/bootstrap/less/navbar.less</tspan>
+<tspan x="10" y="1754"> 95.  2017-04-21 09:20:36 +0000     4926 bytes  sandbox/bootstrap/less/navs.less</tspan>
+<tspan x="10" y="1770"> 96.  2017-04-21 09:20:36 +0000     7434 bytes  sandbox/bootstrap/less/normalize.less</tspan>
+<tspan x="10" y="1786"> 97.  2017-04-21 09:20:36 +0000      857 bytes  sandbox/bootstrap/less/pager.less</tspan>
+<tspan x="10" y="1802"> 98.  2017-04-21 09:20:36 +0000     1996 bytes  sandbox/bootstrap/less/pagination.less</tspan>
+<tspan x="10" y="1818"> 99.  2017-04-21 09:20:36 +0000     5548 bytes  sandbox/bootstrap/less/panels.less</tspan>
+<tspan x="10" y="1834">100.  2017-04-21 09:20:36 +0000     3360 bytes  sandbox/bootstrap/less/popovers.less</tspan>
+<tspan x="10" y="1850">101.  2017-04-21 09:20:36 +0000     1613 bytes  sandbox/bootstrap/less/print.less</tspan>
+<tspan x="10" y="1866">102.  2017-04-21 09:20:36 +0000     1589 bytes  sandbox/bootstrap/less/progress-bars.less</tspan>
+<tspan x="10" y="1882">103.  2017-04-21 09:20:36 +0000     2005 bytes  sandbox/bootstrap/less/responsive-utilities.less</tspan>
+<tspan x="10" y="1898">104.  2017-04-21 09:20:36 +0000     2268 bytes  sandbox/bootstrap/less/scaffolding.less</tspan>
+<tspan x="10" y="1914">105.  2017-04-21 09:20:36 +0000     4470 bytes  sandbox/bootstrap/less/tables.less</tspan>
+<tspan x="10" y="1930">106.  2017-04-21 09:20:36 +0000     6854 bytes  sandbox/bootstrap/less/theme.less</tspan>
+<tspan x="10" y="1946">107.  2017-04-21 09:20:36 +0000      750 bytes  sandbox/bootstrap/less/thumbnails.less</tspan>
+<tspan x="10" y="1962">108.  2017-04-21 09:20:36 +0000     2590 bytes  sandbox/bootstrap/less/tooltip.less</tspan>
+<tspan x="10" y="1978">109.  2017-04-21 09:20:36 +0000     5734 bytes  sandbox/bootstrap/less/type.less</tspan>
+<tspan x="10" y="1994">110.  2017-04-21 09:20:36 +0000      780 bytes  sandbox/bootstrap/less/utilities.less</tspan>
+<tspan x="10" y="2010">111.  2017-04-21 09:20:36 +0000    25388 bytes  sandbox/bootstrap/less/variables.less</tspan>
+<tspan x="10" y="2026">112.  2017-04-21 09:20:36 +0000      527 bytes  sandbox/bootstrap/less/wells.less</tspan>
+<tspan x="10" y="2042">113.  2017-04-21 09:20:36 +0000     1807 bytes  sandbox/bootstrap/package.json</tspan>
+<tspan x="10" y="2058">114.  2017-04-21 09:20:36 +0000     5456 bytes  sandbox/bootstrap/test-infra/README.md</tspan>
+<tspan x="10" y="2074">115.  2017-04-21 09:20:36 +0000    26776 bytes  sandbox/bootstrap/test-infra/npm-shrinkwrap.cano\</tspan>
 <tspan x="10" y="2090">nical.json</tspan>
-<tspan x="10" y="2106">116.  2017-04-21 09:19:36 +0000       13 bytes  sandbox/bootstrap/test-infra/requirements.txt</tspan>
-<tspan x="10" y="2122">117.  2017-04-21 09:19:36 +0000     3523 bytes  sandbox/bootstrap/test-infra/s3_cache.py</tspan>
-<tspan x="10" y="2138">118.  2017-04-21 09:19:36 +0000     1500 bytes  sandbox/bootstrap/test-infra/sauce_browsers.yml</tspan>
-<tspan x="10" y="2154">119.  2017-04-21 09:19:36 +0000      111 bytes  sandbox/bootstrap/test-infra/uncached-npm-instal\</tspan>
+<tspan x="10" y="2106">116.  2017-04-21 09:20:36 +0000       13 bytes  sandbox/bootstrap/test-infra/requirements.txt</tspan>
+<tspan x="10" y="2122">117.  2017-04-21 09:20:36 +0000     3523 bytes  sandbox/bootstrap/test-infra/s3_cache.py</tspan>
+<tspan x="10" y="2138">118.  2017-04-21 09:20:36 +0000     1500 bytes  sandbox/bootstrap/test-infra/sauce_browsers.yml</tspan>
+<tspan x="10" y="2154">119.  2017-04-21 09:20:36 +0000      111 bytes  sandbox/bootstrap/test-infra/uncached-npm-instal\</tspan>
 <tspan x="10" y="2170">l.sh</tspan>
-<tspan x="10" y="2186">120.  2017-04-21 09:19:36 +0000     2040 bytes  sandbox/checkbox-group.html</tspan>
-<tspan x="10" y="2202">121.  2017-04-21 09:19:36 +0000     1099 bytes  sandbox/jquery/MIT-LICENSE.txt</tspan>
-<tspan x="10" y="2218">122.  2017-04-21 09:19:36 +0000      426 bytes  sandbox/jquery/bower.json</tspan>
-<tspan x="10" y="2234">123.  2017-04-21 09:19:36 +0000   244963 bytes  sandbox/jquery/dist/jquery.js</tspan>
-<tspan x="10" y="2250">124.  2017-04-21 09:19:36 +0000    83650 bytes  sandbox/jquery/dist/jquery.min.js</tspan>
-<tspan x="10" y="2266">125.  2017-04-21 09:19:36 +0000   126662 bytes  sandbox/jquery/dist/jquery.min.map</tspan>
-<tspan x="10" y="2282">126.  2017-04-21 09:19:36 +0000    21719 bytes  sandbox/jquery/src/ajax.js</tspan>
-<tspan x="10" y="2298">127.  2017-04-21 09:19:36 +0000     2516 bytes  sandbox/jquery/src/ajax/jsonp.js</tspan>
-<tspan x="10" y="2314">128.  2017-04-21 09:19:36 +0000     1654 bytes  sandbox/jquery/src/ajax/load.js</tspan>
-<tspan x="10" y="2330">129.  2017-04-21 09:19:36 +0000      222 bytes  sandbox/jquery/src/ajax/parseJSON.js</tspan>
-<tspan x="10" y="2346">130.  2017-04-21 09:19:36 +0000      485 bytes  sandbox/jquery/src/ajax/parseXML.js</tspan>
-<tspan x="10" y="2362">131.  2017-04-21 09:19:36 +0000     1271 bytes  sandbox/jquery/src/ajax/script.js</tspan>
-<tspan x="10" y="2378">132.  2017-04-21 09:19:36 +0000       73 bytes  sandbox/jquery/src/ajax/var/nonce.js</tspan>
-<tspan x="10" y="2394">133.  2017-04-21 09:19:36 +0000       40 bytes  sandbox/jquery/src/ajax/var/rquery.js</tspan>
-<tspan x="10" y="2410">134.  2017-04-21 09:19:36 +0000     3346 bytes  sandbox/jquery/src/ajax/xhr.js</tspan>
-<tspan x="10" y="2426">135.  2017-04-21 09:19:36 +0000      200 bytes  sandbox/jquery/src/attributes.js</tspan>
-<tspan x="10" y="2442">136.  2017-04-21 09:19:36 +0000     3484 bytes  sandbox/jquery/src/attributes/attr.js</tspan>
-<tspan x="10" y="2458">137.  2017-04-21 09:19:36 +0000     4155 bytes  sandbox/jquery/src/attributes/classes.js</tspan>
-<tspan x="10" y="2474">138.  2017-04-21 09:19:36 +0000     1934 bytes  sandbox/jquery/src/attributes/prop.js</tspan>
-<tspan x="10" y="2490">139.  2017-04-21 09:19:36 +0000      970 bytes  sandbox/jquery/src/attributes/support.js</tspan>
-<tspan x="10" y="2506">140.  2017-04-21 09:19:36 +0000     3677 bytes  sandbox/jquery/src/attributes/val.js</tspan>
-<tspan x="10" y="2522">141.  2017-04-21 09:19:36 +0000     5506 bytes  sandbox/jquery/src/callbacks.js</tspan>
-<tspan x="10" y="2538">142.  2017-04-21 09:19:36 +0000    11757 bytes  sandbox/jquery/src/core.js</tspan>
-<tspan x="10" y="2554">143.  2017-04-21 09:19:36 +0000     1210 bytes  sandbox/jquery/src/core/access.js</tspan>
-<tspan x="10" y="2570">144.  2017-04-21 09:19:36 +0000     3410 bytes  sandbox/jquery/src/core/init.js</tspan>
-<tspan x="10" y="2586">145.  2017-04-21 09:19:36 +0000      938 bytes  sandbox/jquery/src/core/parseHTML.js</tspan>
-<tspan x="10" y="2602">146.  2017-04-21 09:19:36 +0000     2340 bytes  sandbox/jquery/src/core/ready.js</tspan>
-<tspan x="10" y="2618">147.  2017-04-21 09:19:36 +0000       91 bytes  sandbox/jquery/src/core/var/rsingleTag.js</tspan>
-<tspan x="10" y="2634">148.  2017-04-21 09:19:36 +0000    12883 bytes  sandbox/jquery/src/css.js</tspan>
-<tspan x="10" y="2650">149.  2017-04-21 09:19:36 +0000      590 bytes  sandbox/jquery/src/css/addGetHookIf.js</tspan>
-<tspan x="10" y="2666">150.  2017-04-21 09:19:36 +0000     1462 bytes  sandbox/jquery/src/css/curCSS.js</tspan>
-<tspan x="10" y="2682">151.  2017-04-21 09:19:36 +0000     1836 bytes  sandbox/jquery/src/css/defaultDisplay.js</tspan>
-<tspan x="10" y="2698">152.  2017-04-21 09:19:36 +0000      380 bytes  sandbox/jquery/src/css/hiddenVisibleSelectors.js</tspan>
-<tspan x="10" y="2714">153.  2017-04-21 09:19:36 +0000     3009 bytes  sandbox/jquery/src/css/support.js</tspan>
-<tspan x="10" y="2730">154.  2017-04-21 09:19:36 +0000      555 bytes  sandbox/jquery/src/css/swap.js</tspan>
-<tspan x="10" y="2746">155.  2017-04-21 09:19:36 +0000       70 bytes  sandbox/jquery/src/css/var/cssExpand.js</tspan>
-<tspan x="10" y="2762">156.  2017-04-21 09:19:36 +0000      127 bytes  sandbox/jquery/src/css/var/getStyles.js</tspan>
-<tspan x="10" y="2778">157.  2017-04-21 09:19:36 +0000      355 bytes  sandbox/jquery/src/css/var/isHidden.js</tspan>
-<tspan x="10" y="2794">158.  2017-04-21 09:19:36 +0000       45 bytes  sandbox/jquery/src/css/var/rmargin.js</tspan>
-<tspan x="10" y="2810">159.  2017-04-21 09:19:36 +0000      113 bytes  sandbox/jquery/src/css/var/rnumnonpx.js</tspan>
-<tspan x="10" y="2826">160.  2017-04-21 09:19:36 +0000     4817 bytes  sandbox/jquery/src/data.js</tspan>
-<tspan x="10" y="2842">161.  2017-04-21 09:19:36 +0000     4889 bytes  sandbox/jquery/src/data/Data.js</tspan>
-<tspan x="10" y="2858">162.  2017-04-21 09:19:36 +0000      383 bytes  sandbox/jquery/src/data/accepts.js</tspan>
-<tspan x="10" y="2874">163.  2017-04-21 09:19:36 +0000       66 bytes  sandbox/jquery/src/data/var/data_priv.js</tspan>
-<tspan x="10" y="2890">164.  2017-04-21 09:19:36 +0000       66 bytes  sandbox/jquery/src/data/var/data_user.js</tspan>
-<tspan x="10" y="2906">165.  2017-04-21 09:19:36 +0000     4414 bytes  sandbox/jquery/src/deferred.js</tspan>
-<tspan x="10" y="2922">166.  2017-04-21 09:19:36 +0000      223 bytes  sandbox/jquery/src/deprecated.js</tspan>
-<tspan x="10" y="2938">167.  2017-04-21 09:19:36 +0000     1776 bytes  sandbox/jquery/src/dimensions.js</tspan>
-<tspan x="10" y="2954">168.  2017-04-21 09:19:36 +0000    16602 bytes  sandbox/jquery/src/effects.js</tspan>
-<tspan x="10" y="2970">169.  2017-04-21 09:19:36 +0000     3031 bytes  sandbox/jquery/src/effects/Tween.js</tspan>
-<tspan x="10" y="2986">170.  2017-04-21 09:19:36 +0000      225 bytes  sandbox/jquery/src/effects/animatedSelector.js</tspan>
-<tspan x="10" y="3002">171.  2017-04-21 09:19:36 +0000    24299 bytes  sandbox/jquery/src/event.js</tspan>
-<tspan x="10" y="3018">172.  2017-04-21 09:19:36 +0000     1094 bytes  sandbox/jquery/src/event/alias.js</tspan>
-<tspan x="10" y="3034">173.  2017-04-21 09:19:36 +0000      123 bytes  sandbox/jquery/src/event/support.js</tspan>
-<tspan x="10" y="3050">174.  2017-04-21 09:19:36 +0000      691 bytes  sandbox/jquery/src/exports/amd.js</tspan>
-<tspan x="10" y="3066">175.  2017-04-21 09:19:36 +0000      641 bytes  sandbox/jquery/src/exports/global.js</tspan>
-<tspan x="10" y="3082">176.  2017-04-21 09:19:36 +0000     1405 bytes  sandbox/jquery/src/intro.js</tspan>
-<tspan x="10" y="3098">177.  2017-04-21 09:19:36 +0000      557 bytes  sandbox/jquery/src/jquery.js</tspan>
-<tspan x="10" y="3114">178.  2017-04-21 09:19:36 +0000    15110 bytes  sandbox/jquery/src/manipulation.js</tspan>
-<tspan x="10" y="3130">179.  2017-04-21 09:19:36 +0000      240 bytes  sandbox/jquery/src/manipulation/_evalUrl.js</tspan>
-<tspan x="10" y="3146">180.  2017-04-21 09:19:36 +0000      776 bytes  sandbox/jquery/src/manipulation/support.js</tspan>
-<tspan x="10" y="3162">181.  2017-04-21 09:19:36 +0000       59 bytes  sandbox/jquery/src/manipulation/var/rcheckableTy\</tspan>
+<tspan x="10" y="2186">120.  2017-04-21 09:20:36 +0000     2040 bytes  sandbox/checkbox-group.html</tspan>
+<tspan x="10" y="2202">121.  2017-04-21 09:20:36 +0000     1099 bytes  sandbox/jquery/MIT-LICENSE.txt</tspan>
+<tspan x="10" y="2218">122.  2017-04-21 09:20:36 +0000      426 bytes  sandbox/jquery/bower.json</tspan>
+<tspan x="10" y="2234">123.  2017-04-21 09:20:36 +0000   244963 bytes  sandbox/jquery/dist/jquery.js</tspan>
+<tspan x="10" y="2250">124.  2017-04-21 09:20:36 +0000    83650 bytes  sandbox/jquery/dist/jquery.min.js</tspan>
+<tspan x="10" y="2266">125.  2017-04-21 09:20:36 +0000   126662 bytes  sandbox/jquery/dist/jquery.min.map</tspan>
+<tspan x="10" y="2282">126.  2017-04-21 09:20:36 +0000    21719 bytes  sandbox/jquery/src/ajax.js</tspan>
+<tspan x="10" y="2298">127.  2017-04-21 09:20:36 +0000     2516 bytes  sandbox/jquery/src/ajax/jsonp.js</tspan>
+<tspan x="10" y="2314">128.  2017-04-21 09:20:36 +0000     1654 bytes  sandbox/jquery/src/ajax/load.js</tspan>
+<tspan x="10" y="2330">129.  2017-04-21 09:20:36 +0000      222 bytes  sandbox/jquery/src/ajax/parseJSON.js</tspan>
+<tspan x="10" y="2346">130.  2017-04-21 09:20:36 +0000      485 bytes  sandbox/jquery/src/ajax/parseXML.js</tspan>
+<tspan x="10" y="2362">131.  2017-04-21 09:20:36 +0000     1271 bytes  sandbox/jquery/src/ajax/script.js</tspan>
+<tspan x="10" y="2378">132.  2017-04-21 09:20:36 +0000       73 bytes  sandbox/jquery/src/ajax/var/nonce.js</tspan>
+<tspan x="10" y="2394">133.  2017-04-21 09:20:36 +0000       40 bytes  sandbox/jquery/src/ajax/var/rquery.js</tspan>
+<tspan x="10" y="2410">134.  2017-04-21 09:20:36 +0000     3346 bytes  sandbox/jquery/src/ajax/xhr.js</tspan>
+<tspan x="10" y="2426">135.  2017-04-21 09:20:36 +0000      200 bytes  sandbox/jquery/src/attributes.js</tspan>
+<tspan x="10" y="2442">136.  2017-04-21 09:20:36 +0000     3484 bytes  sandbox/jquery/src/attributes/attr.js</tspan>
+<tspan x="10" y="2458">137.  2017-04-21 09:20:36 +0000     4155 bytes  sandbox/jquery/src/attributes/classes.js</tspan>
+<tspan x="10" y="2474">138.  2017-04-21 09:20:36 +0000     1934 bytes  sandbox/jquery/src/attributes/prop.js</tspan>
+<tspan x="10" y="2490">139.  2017-04-21 09:20:36 +0000      970 bytes  sandbox/jquery/src/attributes/support.js</tspan>
+<tspan x="10" y="2506">140.  2017-04-21 09:20:36 +0000     3677 bytes  sandbox/jquery/src/attributes/val.js</tspan>
+<tspan x="10" y="2522">141.  2017-04-21 09:20:36 +0000     5506 bytes  sandbox/jquery/src/callbacks.js</tspan>
+<tspan x="10" y="2538">142.  2017-04-21 09:20:36 +0000    11757 bytes  sandbox/jquery/src/core.js</tspan>
+<tspan x="10" y="2554">143.  2017-04-21 09:20:36 +0000     1210 bytes  sandbox/jquery/src/core/access.js</tspan>
+<tspan x="10" y="2570">144.  2017-04-21 09:20:36 +0000     3410 bytes  sandbox/jquery/src/core/init.js</tspan>
+<tspan x="10" y="2586">145.  2017-04-21 09:20:36 +0000      938 bytes  sandbox/jquery/src/core/parseHTML.js</tspan>
+<tspan x="10" y="2602">146.  2017-04-21 09:20:36 +0000     2340 bytes  sandbox/jquery/src/core/ready.js</tspan>
+<tspan x="10" y="2618">147.  2017-04-21 09:20:36 +0000       91 bytes  sandbox/jquery/src/core/var/rsingleTag.js</tspan>
+<tspan x="10" y="2634">148.  2017-04-21 09:20:36 +0000    12883 bytes  sandbox/jquery/src/css.js</tspan>
+<tspan x="10" y="2650">149.  2017-04-21 09:20:36 +0000      590 bytes  sandbox/jquery/src/css/addGetHookIf.js</tspan>
+<tspan x="10" y="2666">150.  2017-04-21 09:20:36 +0000     1462 bytes  sandbox/jquery/src/css/curCSS.js</tspan>
+<tspan x="10" y="2682">151.  2017-04-21 09:20:36 +0000     1836 bytes  sandbox/jquery/src/css/defaultDisplay.js</tspan>
+<tspan x="10" y="2698">152.  2017-04-21 09:20:36 +0000      380 bytes  sandbox/jquery/src/css/hiddenVisibleSelectors.js</tspan>
+<tspan x="10" y="2714">153.  2017-04-21 09:20:36 +0000     3009 bytes  sandbox/jquery/src/css/support.js</tspan>
+<tspan x="10" y="2730">154.  2017-04-21 09:20:36 +0000      555 bytes  sandbox/jquery/src/css/swap.js</tspan>
+<tspan x="10" y="2746">155.  2017-04-21 09:20:36 +0000       70 bytes  sandbox/jquery/src/css/var/cssExpand.js</tspan>
+<tspan x="10" y="2762">156.  2017-04-21 09:20:36 +0000      127 bytes  sandbox/jquery/src/css/var/getStyles.js</tspan>
+<tspan x="10" y="2778">157.  2017-04-21 09:20:36 +0000      355 bytes  sandbox/jquery/src/css/var/isHidden.js</tspan>
+<tspan x="10" y="2794">158.  2017-04-21 09:20:36 +0000       45 bytes  sandbox/jquery/src/css/var/rmargin.js</tspan>
+<tspan x="10" y="2810">159.  2017-04-21 09:20:36 +0000      113 bytes  sandbox/jquery/src/css/var/rnumnonpx.js</tspan>
+<tspan x="10" y="2826">160.  2017-04-21 09:20:36 +0000     4817 bytes  sandbox/jquery/src/data.js</tspan>
+<tspan x="10" y="2842">161.  2017-04-21 09:20:36 +0000     4889 bytes  sandbox/jquery/src/data/Data.js</tspan>
+<tspan x="10" y="2858">162.  2017-04-21 09:20:36 +0000      383 bytes  sandbox/jquery/src/data/accepts.js</tspan>
+<tspan x="10" y="2874">163.  2017-04-21 09:20:36 +0000       66 bytes  sandbox/jquery/src/data/var/data_priv.js</tspan>
+<tspan x="10" y="2890">164.  2017-04-21 09:20:36 +0000       66 bytes  sandbox/jquery/src/data/var/data_user.js</tspan>
+<tspan x="10" y="2906">165.  2017-04-21 09:20:36 +0000     4414 bytes  sandbox/jquery/src/deferred.js</tspan>
+<tspan x="10" y="2922">166.  2017-04-21 09:20:36 +0000      223 bytes  sandbox/jquery/src/deprecated.js</tspan>
+<tspan x="10" y="2938">167.  2017-04-21 09:20:36 +0000     1776 bytes  sandbox/jquery/src/dimensions.js</tspan>
+<tspan x="10" y="2954">168.  2017-04-21 09:20:36 +0000    16602 bytes  sandbox/jquery/src/effects.js</tspan>
+<tspan x="10" y="2970">169.  2017-04-21 09:20:36 +0000     3031 bytes  sandbox/jquery/src/effects/Tween.js</tspan>
+<tspan x="10" y="2986">170.  2017-04-21 09:20:36 +0000      225 bytes  sandbox/jquery/src/effects/animatedSelector.js</tspan>
+<tspan x="10" y="3002">171.  2017-04-21 09:20:36 +0000    24299 bytes  sandbox/jquery/src/event.js</tspan>
+<tspan x="10" y="3018">172.  2017-04-21 09:20:36 +0000     1094 bytes  sandbox/jquery/src/event/alias.js</tspan>
+<tspan x="10" y="3034">173.  2017-04-21 09:20:36 +0000      123 bytes  sandbox/jquery/src/event/support.js</tspan>
+<tspan x="10" y="3050">174.  2017-04-21 09:20:36 +0000      691 bytes  sandbox/jquery/src/exports/amd.js</tspan>
+<tspan x="10" y="3066">175.  2017-04-21 09:20:36 +0000      641 bytes  sandbox/jquery/src/exports/global.js</tspan>
+<tspan x="10" y="3082">176.  2017-04-21 09:20:36 +0000     1405 bytes  sandbox/jquery/src/intro.js</tspan>
+<tspan x="10" y="3098">177.  2017-04-21 09:20:36 +0000      557 bytes  sandbox/jquery/src/jquery.js</tspan>
+<tspan x="10" y="3114">178.  2017-04-21 09:20:36 +0000    15110 bytes  sandbox/jquery/src/manipulation.js</tspan>
+<tspan x="10" y="3130">179.  2017-04-21 09:20:36 +0000      240 bytes  sandbox/jquery/src/manipulation/_evalUrl.js</tspan>
+<tspan x="10" y="3146">180.  2017-04-21 09:20:36 +0000      776 bytes  sandbox/jquery/src/manipulation/support.js</tspan>
+<tspan x="10" y="3162">181.  2017-04-21 09:20:36 +0000       59 bytes  sandbox/jquery/src/manipulation/var/rcheckableTy\</tspan>
 <tspan x="10" y="3178">pe.js</tspan>
-<tspan x="10" y="3194">182.  2017-04-21 09:19:36 +0000     5481 bytes  sandbox/jquery/src/offset.js</tspan>
-<tspan x="10" y="3210">183.  2017-04-21 09:19:36 +0000        5 bytes  sandbox/jquery/src/outro.js</tspan>
-<tspan x="10" y="3226">184.  2017-04-21 09:19:36 +0000     3090 bytes  sandbox/jquery/src/queue.js</tspan>
-<tspan x="10" y="3242">185.  2017-04-21 09:19:36 +0000      561 bytes  sandbox/jquery/src/queue/delay.js</tspan>
-<tspan x="10" y="3258">186.  2017-04-21 09:19:36 +0000     4413 bytes  sandbox/jquery/src/selector-native.js</tspan>
-<tspan x="10" y="3274">187.  2017-04-21 09:19:36 +0000      294 bytes  sandbox/jquery/src/selector-sizzle.js</tspan>
-<tspan x="10" y="3290">188.  2017-04-21 09:19:36 +0000       33 bytes  sandbox/jquery/src/selector.js</tspan>
-<tspan x="10" y="3306">189.  2017-04-21 09:19:36 +0000     3214 bytes  sandbox/jquery/src/serialize.js</tspan>
-<tspan x="10" y="3322">190.  2017-04-21 09:19:36 +0000    57549 bytes  sandbox/jquery/src/sizzle/dist/sizzle.js</tspan>
-<tspan x="10" y="3338">191.  2017-04-21 09:19:36 +0000    18404 bytes  sandbox/jquery/src/sizzle/dist/sizzle.min.js</tspan>
-<tspan x="10" y="3354">192.  2017-04-21 09:19:36 +0000    28824 bytes  sandbox/jquery/src/sizzle/dist/sizzle.min.map</tspan>
-<tspan x="10" y="3370">193.  2017-04-21 09:19:36 +0000     4559 bytes  sandbox/jquery/src/traversing.js</tspan>
-<tspan x="10" y="3386">194.  2017-04-21 09:19:36 +0000     2464 bytes  sandbox/jquery/src/traversing/findFilter.js</tspan>
-<tspan x="10" y="3402">195.  2017-04-21 09:19:36 +0000      110 bytes  sandbox/jquery/src/traversing/var/rneedsContext.\</tspan>
+<tspan x="10" y="3194">182.  2017-04-21 09:20:36 +0000     5481 bytes  sandbox/jquery/src/offset.js</tspan>
+<tspan x="10" y="3210">183.  2017-04-21 09:20:36 +0000        5 bytes  sandbox/jquery/src/outro.js</tspan>
+<tspan x="10" y="3226">184.  2017-04-21 09:20:36 +0000     3090 bytes  sandbox/jquery/src/queue.js</tspan>
+<tspan x="10" y="3242">185.  2017-04-21 09:20:36 +0000      561 bytes  sandbox/jquery/src/queue/delay.js</tspan>
+<tspan x="10" y="3258">186.  2017-04-21 09:20:36 +0000     4413 bytes  sandbox/jquery/src/selector-native.js</tspan>
+<tspan x="10" y="3274">187.  2017-04-21 09:20:36 +0000      294 bytes  sandbox/jquery/src/selector-sizzle.js</tspan>
+<tspan x="10" y="3290">188.  2017-04-21 09:20:36 +0000       33 bytes  sandbox/jquery/src/selector.js</tspan>
+<tspan x="10" y="3306">189.  2017-04-21 09:20:36 +0000     3214 bytes  sandbox/jquery/src/serialize.js</tspan>
+<tspan x="10" y="3322">190.  2017-04-21 09:20:36 +0000    57549 bytes  sandbox/jquery/src/sizzle/dist/sizzle.js</tspan>
+<tspan x="10" y="3338">191.  2017-04-21 09:20:36 +0000    18404 bytes  sandbox/jquery/src/sizzle/dist/sizzle.min.js</tspan>
+<tspan x="10" y="3354">192.  2017-04-21 09:20:36 +0000    28824 bytes  sandbox/jquery/src/sizzle/dist/sizzle.min.map</tspan>
+<tspan x="10" y="3370">193.  2017-04-21 09:20:36 +0000     4559 bytes  sandbox/jquery/src/traversing.js</tspan>
+<tspan x="10" y="3386">194.  2017-04-21 09:20:36 +0000     2464 bytes  sandbox/jquery/src/traversing/findFilter.js</tspan>
+<tspan x="10" y="3402">195.  2017-04-21 09:20:36 +0000      110 bytes  sandbox/jquery/src/traversing/var/rneedsContext.\</tspan>
 <tspan x="10" y="3418">js</tspan>
-<tspan x="10" y="3434">196.  2017-04-21 09:19:36 +0000       36 bytes  sandbox/jquery/src/var/arr.js</tspan>
-<tspan x="10" y="3450">197.  2017-04-21 09:19:36 +0000       64 bytes  sandbox/jquery/src/var/class2type.js</tspan>
-<tspan x="10" y="3466">198.  2017-04-21 09:19:36 +0000       63 bytes  sandbox/jquery/src/var/concat.js</tspan>
-<tspan x="10" y="3482">199.  2017-04-21 09:19:36 +0000       92 bytes  sandbox/jquery/src/var/hasOwn.js</tspan>
-<tspan x="10" y="3498">200.  2017-04-21 09:19:36 +0000       64 bytes  sandbox/jquery/src/var/indexOf.js</tspan>
-<tspan x="10" y="3514">201.  2017-04-21 09:19:36 +0000       80 bytes  sandbox/jquery/src/var/pnum.js</tspan>
-<tspan x="10" y="3530">202.  2017-04-21 09:19:36 +0000       61 bytes  sandbox/jquery/src/var/push.js</tspan>
-<tspan x="10" y="3546">203.  2017-04-21 09:19:36 +0000       42 bytes  sandbox/jquery/src/var/rnotwhite.js</tspan>
-<tspan x="10" y="3562">204.  2017-04-21 09:19:36 +0000       62 bytes  sandbox/jquery/src/var/slice.js</tspan>
-<tspan x="10" y="3578">205.  2017-04-21 09:19:36 +0000       50 bytes  sandbox/jquery/src/var/strundefined.js</tspan>
-<tspan x="10" y="3594">206.  2017-04-21 09:19:36 +0000       99 bytes  sandbox/jquery/src/var/support.js</tspan>
-<tspan x="10" y="3610">207.  2017-04-21 09:19:36 +0000       86 bytes  sandbox/jquery/src/var/toString.js</tspan>
-<tspan x="10" y="3626">208.  2017-04-21 09:19:36 +0000       41 bytes  sandbox/jquery/src/var/trim.js</tspan>
-<tspan x="10" y="3642">209.  2017-04-21 09:19:36 +0000     1468 bytes  sandbox/jquery/src/wrap.js</tspan>
-<tspan x="10" y="3658">210.  2017-04-21 09:19:36 +0000   160417 bytes  sandbox/perf.html</tspan>
-<tspan x="10" y="3674">211.  2017-04-21 09:19:36 +0000     1597 bytes  sandbox/sandbox.html</tspan>
+<tspan x="10" y="3434">196.  2017-04-21 09:20:36 +0000       36 bytes  sandbox/jquery/src/var/arr.js</tspan>
+<tspan x="10" y="3450">197.  2017-04-21 09:20:36 +0000       64 bytes  sandbox/jquery/src/var/class2type.js</tspan>
+<tspan x="10" y="3466">198.  2017-04-21 09:20:36 +0000       63 bytes  sandbox/jquery/src/var/concat.js</tspan>
+<tspan x="10" y="3482">199.  2017-04-21 09:20:36 +0000       92 bytes  sandbox/jquery/src/var/hasOwn.js</tspan>
+<tspan x="10" y="3498">200.  2017-04-21 09:20:36 +0000       64 bytes  sandbox/jquery/src/var/indexOf.js</tspan>
+<tspan x="10" y="3514">201.  2017-04-21 09:20:36 +0000       80 bytes  sandbox/jquery/src/var/pnum.js</tspan>
+<tspan x="10" y="3530">202.  2017-04-21 09:20:36 +0000       61 bytes  sandbox/jquery/src/var/push.js</tspan>
+<tspan x="10" y="3546">203.  2017-04-21 09:20:36 +0000       42 bytes  sandbox/jquery/src/var/rnotwhite.js</tspan>
+<tspan x="10" y="3562">204.  2017-04-21 09:20:36 +0000       62 bytes  sandbox/jquery/src/var/slice.js</tspan>
+<tspan x="10" y="3578">205.  2017-04-21 09:20:36 +0000       50 bytes  sandbox/jquery/src/var/strundefined.js</tspan>
+<tspan x="10" y="3594">206.  2017-04-21 09:20:36 +0000       99 bytes  sandbox/jquery/src/var/support.js</tspan>
+<tspan x="10" y="3610">207.  2017-04-21 09:20:36 +0000       86 bytes  sandbox/jquery/src/var/toString.js</tspan>
+<tspan x="10" y="3626">208.  2017-04-21 09:20:36 +0000       41 bytes  sandbox/jquery/src/var/trim.js</tspan>
+<tspan x="10" y="3642">209.  2017-04-21 09:20:36 +0000     1468 bytes  sandbox/jquery/src/wrap.js</tspan>
+<tspan x="10" y="3658">210.  2017-04-21 09:20:36 +0000   160417 bytes  sandbox/perf.html</tspan>
+<tspan x="10" y="3674">211.  2017-04-21 09:20:36 +0000     1597 bytes  sandbox/sandbox.html</tspan>
 </text>
 </svg>
